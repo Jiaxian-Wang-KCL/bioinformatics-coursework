@@ -1,0 +1,89 @@
+{
+  "status": "Historical coursework results; no original analyses rerun",
+  "rna_seq": {
+    "samples": 6,
+    "groups": {
+      "control": 3,
+      "hoxa": 3
+    },
+    "pca_pc1_percent": 96,
+    "pca_pc2_percent": 1,
+    "pca_evidence": "Coursework 1 p6 saved plot",
+    "raw_p_lt_0_05_genes": 8369,
+    "count_evidence": "Coursework 1 p5 prose only; not recomputed",
+    "count_2035_status": "Unresolved filter conflict"
+  },
+  "foxl2": {
+    "query_accession": "P58012",
+    "query_sequence_length": 376,
+    "query_evidence": "Coursework 2 p2 FASTA transcribed",
+    "domain_range_from_saved_uniprot": [
+      54,
+      148
+    ],
+    "blast_query_length": 95,
+    "blast_top_hit": {
+      "accession": "7VOU_C",
+      "identity_percent": 100,
+      "query_coverage_percent": 100,
+      "e_value": "1e-67",
+      "evidence": "Coursework 2 p4 Figure 1"
+    },
+    "alphafold": {
+      "model": "AF-P58012-F1-v6",
+      "mean_plddt": 60.12,
+      "evidence": "Coursework 2 p8 Figure 3"
+    },
+    "pymol": [
+      {
+        "comparison": "8VFZ model vs template",
+        "rmsd_angstrom": 0.094,
+        "retained_atom_pairs": 582,
+        "pdf_page": 10
+      },
+      {
+        "comparison": "8VFZ model vs Q6VFT5 model",
+        "rmsd_angstrom": 0.743,
+        "retained_atom_pairs": 591,
+        "pdf_page": 11
+      },
+      {
+        "comparison": "AlphaFold vs Q6VFT5 model",
+        "rmsd_angstrom": 5.321,
+        "retained_atom_pairs": 2302,
+        "pdf_page": 12
+      }
+    ],
+    "pymol_note": "All final RMSDs follow iterative outlier rejection; transcribed from screenshots",
+    "molprobity": [
+      {
+        "structure": "8VFZ template",
+        "score": 1.18,
+        "ramachandran_outlier_percent": 0.31,
+        "favoured_percent": 97.72,
+        "pdf_page": 15
+      },
+      {
+        "structure": "8VFZ model",
+        "score": 1.5,
+        "ramachandran_outlier_percent": 1.0,
+        "favoured_percent": 93.0,
+        "pdf_page": 15
+      },
+      {
+        "structure": "AlphaFold",
+        "score": 2.12,
+        "ramachandran_outlier_percent": 16.58,
+        "favoured_percent": 63.37,
+        "pdf_page": 16
+      },
+      {
+        "structure": "Q6VFT5 model",
+        "score": 2.35,
+        "ramachandran_outlier_percent": 23.26,
+        "favoured_percent": 66.04,
+        "pdf_page": 16
+      }
+    ]
+  }
+}

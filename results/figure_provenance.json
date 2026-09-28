@@ -1,0 +1,114 @@
+[
+  {
+    "file": "figures/hoxa1-ma.png",
+    "source_report": "Coursework 1",
+    "pdf_page": 6,
+    "figure": "MA plot",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "1def33d3c0a7b2a9083b4aef8cb5ab391065ba029de4416e224705c8387285da"
+  },
+  {
+    "file": "figures/hoxa1-pca.png",
+    "source_report": "Coursework 1",
+    "pdf_page": 6,
+    "figure": "PCA plot",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "2425b9ef4396bd1899a7b52483bed15cde487dec22172bd835314ebd70a70dd5"
+  },
+  {
+    "file": "figures/hoxa1-sample-distances.png",
+    "source_report": "Coursework 1",
+    "pdf_page": 7,
+    "figure": "Sample-distance heatmap",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "22c0f2cd2678c6e5ecccfc0b891ba1108d8e6f6f8fb92da64a7734c4115bc782"
+  },
+  {
+    "file": "figures/foxl2-blast.png",
+    "source_report": "Coursework 2",
+    "pdf_page": 4,
+    "figure": "Figure 1: BLAST results",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "b80d4f700c239a94932d031c51043316f2fe9d7befdf820d20580682c5c26c13"
+  },
+  {
+    "file": "figures/foxl2-alphafold-confidence.png",
+    "source_report": "Coursework 2",
+    "pdf_page": 8,
+    "figure": "Figure 3: AlphaFold confidence",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "05b1aa9d964b80b8055c4747304b0b1b9924adcb42921f84d2454e0766df2544"
+  },
+  {
+    "file": "figures/foxl2-model-template-overlay.png",
+    "source_report": "Coursework 2",
+    "pdf_page": 10,
+    "figure": "Figure 6: model-template superposition",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "7718da9e0d76bc3405a2f2a9462a0035bb891f19db35954d9906ebf661fdef22"
+  },
+  {
+    "file": "figures/foxl2-model-comparison.png",
+    "source_report": "Coursework 2",
+    "pdf_page": 11,
+    "figure": "Figure 7: model comparison",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "b676e8a214a160598a8da2487798388e3ada8ac7b76edb877facd963a1b583a2"
+  },
+  {
+    "file": "figures/foxl2-full-length-overlay.png",
+    "source_report": "Coursework 2",
+    "pdf_page": 12,
+    "figure": "Figure 8: full-length comparison",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "2185fb5a85d201e31f5cdbb5feec8537eedaacb9eb01543dcbb9a8c526fdbef3"
+  },
+  {
+    "file": "figures/molprobity-8vfz-template.png",
+    "source_report": "Coursework 2",
+    "pdf_page": 15,
+    "figure": "Figure 11: 8VFZ template",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "bf7e851a0b31f6b1a6df31c8cbe228baced28b0739a75fdc7f16b0018c0050d1"
+  },
+  {
+    "file": "figures/molprobity-8vfz-model.png",
+    "source_report": "Coursework 2",
+    "pdf_page": 15,
+    "figure": "Figure 12: 8VFZ-based model",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "c8ca380ae86d8f896432a0ac36d4861ddfbcaa7aad6036253650b167ed1590a9"
+  },
+  {
+    "file": "figures/molprobity-alphafold.png",
+    "source_report": "Coursework 2",
+    "pdf_page": 16,
+    "figure": "Figure 13: AlphaFold model",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "3617a21aa80253e84d1e5d1624b98c22c92b954463933e9201d0e3f2f16015ad"
+  },
+  {
+    "file": "figures/molprobity-q6vft5-model.png",
+    "source_report": "Coursework 2",
+    "pdf_page": 16,
+    "figure": "Figure 14: Q6VFT5-based model",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "ec94c068fec6b5057d3791e97ab6f4366318463b194f9f6203e57be8631a61ea"
+  },
+  {
+    "file": "figures/foxl2-domain-annotation.png",
+    "source_report": "Coursework 2",
+    "pdf_page": 18,
+    "figure": "Figure 16: UniProt annotation",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "db3495ccafeb2c772187a6343a674196b41af01e41a5da3c4d2b1af4dbd9c5bb"
+  },
+  {
+    "file": "figures/foxl2-string-network.png",
+    "source_report": "Coursework 2",
+    "pdf_page": 19,
+    "figure": "Figure 17: STRING network",
+    "method": "Embedded PDF image extracted without editing or regeneration",
+    "sha256": "446a357b162c616c57bca79db85e90dfb6f105809240f6e24c4dacf8e1855674"
+  }
+]
